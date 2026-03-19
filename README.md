@@ -362,8 +362,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Akshadip**  
-Senior Software Engineer specializing in distributed systems and high-performance APIs.
+**Akshadip**
 
 ---
 
